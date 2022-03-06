@@ -1,0 +1,1 @@
+# A-Study-of-Factors-Influencing-E-Scooter-Accidents-in-the-Great-Britain-using-Machine-Learning-Model
